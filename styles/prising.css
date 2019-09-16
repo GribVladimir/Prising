@@ -1,0 +1,104 @@
+body{
+	background: #e7776c
+}
+h1{
+	color:white;
+	text-align: center;
+
+}
+
+.prising{
+	display: flex;
+	direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: space-around;
+	align-items: flex-end;
+	margin: 20px;
+
+}
+.pro{
+	background-color: white;
+    margin-bottom: 25px;
+    margin-right:50px;
+    text-align:center;
+    width:250px;
+    border-radius: 10px;
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.premi{
+	background-color: white;
+    margin-bottom: 25px;
+    margin-right:50px;
+    text-align:center;
+    width:250px;
+    border-radius: 10px;
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.platinum{
+	background-color: white;
+    margin-bottom: 25px;
+    margin-right:50px;
+    text-align:center;
+    width:250px;
+    border-radius: 10px;
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.title{
+font-size: 30px;
+line-height: 50px;
+	
+}
+.proz{
+font-size: 15px;
+line-height: 25px;
+}
+.text{
+color: #dfb9b6;
+font-size: 22px;
+line-height: 31px;
+}
+.free{
+	background-color: #dd7f77;
+	border:1px solid grey;
+	width: 880px;
+    display:flex;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    flex-direction:column
+}
+h5
+{
+	color: white;
+	text-align: center;
+}
+a {
+	color: white;
+}
+.fr{
+	color: white;
+	text-decoration: none;
+}
+.bot{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.footer{
+    display:flex;
+    width:700px;
+   	text-align:center;
+    flex-direction:column;
+    align-items:center;
+    
+}
